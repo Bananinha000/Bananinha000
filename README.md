@@ -1,7 +1,7 @@
 Boas vindas ao meu perfil
 Meu nome é Bruno Luiz
 
-Estou estudando na Alura
+Sou um estudante do ALURA
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
